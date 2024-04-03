@@ -10,14 +10,14 @@ To get started with PD Drum Machine, follow these steps:
 4. Add depth 🌊 and character 🎭 to your beats 🎶 with effects like reverb and distortion 🎸🎸."
 5. Have fun making beats and grooves! 🥁🎉
 
-## Dependencies
+## Dependencies 🛠️
 🎵🎵 - Pure Data (Pd) 🔄 - Download and install Pure Data from [puredata.info](https://puredata.info/downloads) 🎵🎵.
 
 
 
-## About
+## About ℹ️
 
-This project was developed as part of the "MED4 Processing of Audio Signals CPH" 🎓 course at AAU Copenhagen 🏫. It showcases practical skills in sound synthesis 🎶, audio processing 🎧, and musical interface design 🎹 using Pure Data.
+_This project was developed as part of the "MED4 Processing of Audio Signals CPH" 🎓 course at AAU Copenhagen 🏫. It showcases practical skills in sound synthesis 🎶, audio processing 🎧, and musical interface design 🎹 using Pure Data._
 
 
 
