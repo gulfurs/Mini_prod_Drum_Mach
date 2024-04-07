@@ -2,7 +2,7 @@
 
 <h2 align="center">Welcome 🎉 to PD Drum Machine 🥁, an interactive drum machine 🎹 built with Pure Data (Pd) 🔊!</h2>
 
-### Final PD file is called " " 
+### Final PD file is called "Main_hub - Final.pd" 
 
 ## Getting Started 🚀
 To get started with PD Drum Machine, follow these steps:
